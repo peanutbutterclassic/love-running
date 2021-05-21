@@ -235,6 +235,20 @@ footer {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    
 
+
+}
+
+/* gallery */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+#photos > img {
+    width: 100%;
+    
 }
