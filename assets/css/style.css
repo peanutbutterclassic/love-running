@@ -209,6 +209,10 @@ hr {
     text-align: center;
     border: 2px solid white;
     box-sizing: border-box;
-    
+
+}
+
+#times h2 {
+    color: #fafafa;
 }
 
